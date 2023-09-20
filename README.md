@@ -115,6 +115,10 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the MIT License.
 
+## Figma Design
+
+Check out the figma design i did for the project <a href="https://www.figma.com/file/t5xkZvcmnalISOYgLSDBqv/HNGX-FRONTEND-STAGE3?type=design&node-id=0-1&mode=design&t=tiHrEtMbs7IXmQfO-0">here</a>
+
 ## Live Demo
 Check out a live demo of the web application <a href="https://hngx-frontend-stage3-lensture.vercel.app/">here</a>
 
