@@ -116,7 +116,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the MIT License.
 
 ## Live Demo
-Check out a live demo of the web application <a href="https://hngx-frontend-stage3-uiwru.vercel.app">here</a>
+Check out a live demo of the web application <a href="https://hngx-frontend-stage3-lensture.vercel.app/">here</a>
 
 ## Conclusion
 Thank you for using the Lensture. If you have any questions or need assistance, please feel free to contact me.
