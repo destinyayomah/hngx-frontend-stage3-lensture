@@ -125,4 +125,4 @@ Thank you for using the Lensture. If you have any questions or need assistance, 
 
 - Author - <a href="https://github.com/destinyayomah">Destiny Ayomah</a>
 - LinkedIn - <a href="https://www.linkedin.com/in/destiny-ayomah-822286197">Destiny Ayomah</a>
-- Twitter - <a href="https://twitter.com/destiny_ayomah?t=57a60xIgFqu4TaLqDhRStQ&s=09">@destinyayomah</a>
+- Twitter - <a href="https://twitter.com/destiny_ayomah?t=57a60xIgFqu4TaLqDhRStQ&s=09">@destinyayomah</a> 
